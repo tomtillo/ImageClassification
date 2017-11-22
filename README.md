@@ -23,6 +23,7 @@ I used as low as 150 images for both classes to train.
 ![Indian Dresses Training Set](https://github.com/tomtillo/ImageClassification/blob/master/indian2.JPG)
 _Sample training subset of Indian dresses_
 
+
 ![Jeans Training set](https://github.com/tomtillo/ImageClassification/blob/master/jeans2.JPG)
 _Sample training subset of jeans_
 
