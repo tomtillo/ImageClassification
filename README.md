@@ -21,10 +21,10 @@ In additional to the feature generation using default Image processing libraries
 
 I used as low as 150 images for both classes to train.
 ![Indian Dresses Training Set](https://github.com/tomtillo/ImageClassification/blob/master/indian2.JPG)
-Sample training subset of Indian dresses
+_Sample training subset of Indian dresses_
 
 ![Jeans Training set](https://github.com/tomtillo/ImageClassification/blob/master/jeans2.JPG)
-Sample training subset of jeans
+_Sample training subset of jeans_
 
 
 **Step 2 :** Build the train model with epoch = 1 
