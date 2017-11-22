@@ -20,10 +20,10 @@ In additional to the feature generation using default Image processing libraries
 **Step 1 :** Collect training samples ( Here jeans v/s Indian traditional dress )
 
 I used as low as 150 images for both classes to train.
-![Indian Dresses Training Set](https://github.com/tomtillo/ImageClassification/blob/master/indian.JPG)
+![Indian Dresses Training Set](https://github.com/tomtillo/ImageClassification/blob/master/indian2.JPG)
 Sample training subset of Indian dresses
 
-![Jeans Training set](https://github.com/tomtillo/ImageClassification/blob/master/jeans.JPG)
+![Jeans Training set](https://github.com/tomtillo/ImageClassification/blob/master/jeans2.JPG)
 Sample training subset of jeans
 
 
