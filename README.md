@@ -50,7 +50,8 @@ val_loss: 1.1921e-07 - val_acc: 1.0000
 
 ***
 
-**Step 3 : **Run a sample validation  
+
+**Step 3 :** Run a sample validation  
 Validation size = 15 images ( for both classes ) 
 Got a validation accuracy of 100% - ( after running the training several times )
 
