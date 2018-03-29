@@ -5,7 +5,8 @@ The various methods I used to generate features
 * Neural Networks ( CNN using theano/ keras )
 
 ## 1. Feature generation using traditional computer vision packages
-( not covered in this wiki , please refer to the other repository - "Face detection" )
+( not covered in this wiki , please refer to the other repository - ["Face detection"](https://github.com/tomtillo/FaceDetection) 
+
 
 In additional to the feature generation using default Image processing libraries ( openCV, PIL etc in python), CNNs can be trained to identify objects and can be generalized to just detect features like 
 * shape of the object detected
